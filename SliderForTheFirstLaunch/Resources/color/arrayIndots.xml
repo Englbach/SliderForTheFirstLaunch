@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+	
+	<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+		<item android:color="@color/dot_inactive_screen1"></item>
+		<item android:color="@color/dot_inactive_screen2"></item>
+		<item android:color="@color/dot_inactive_screen3"></item>
+		<item android:color="@color/dot_inactive_screen4"></item>
+	</selector>
+

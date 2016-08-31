@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="SliderForTheFirstLaunch/SliderForTheFirstLaunch.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SliderForTheFirstLaunch/MainActivity.cs">
+    <Files>
+      <File FileName="SliderForTheFirstLaunch/Resources/values/Strings.xml" Line="11" Column="19" />
+      <File FileName="SliderForTheFirstLaunch/Resources/values/Styles.xml" Line="15" Column="3" />
+      <File FileName="SliderForTheFirstLaunch/MainActivity.cs" Line="111" Column="5" />
+      <File FileName="SliderForTheFirstLaunch/Properties/AndroidManifest.xml" Line="4" Column="133" />
+      <File FileName="SliderForTheFirstLaunch/Resources/drawable/arrayAcdots.xml" Line="3" Column="12" />
+      <File FileName="SliderForTheFirstLaunch/Resources/drawable/arrayIndots.xml" Line="3" Column="12" />
+      <File FileName="SliderForTheFirstLaunch/Resources/values/Colors.xml" Line="41" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SliderForTheFirstLaunch AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus5" />
+</Properties>

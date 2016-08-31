@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+	<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+		<item android:color="@color/dot_active_screen1"></item>
+		<item android:color="@color/dot_active_screen2"></item>
+		<item android:color="@color/dot_active_screen3"></item>
+		<item android:color="@color/dot_active_screen4"></item>
+	</selector>
+
+
+
+
